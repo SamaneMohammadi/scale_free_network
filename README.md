@@ -1,7 +1,7 @@
 # scale_free_network
 
 
-A common feature of real world networks is the presence of hubs, or a few nodes that are highly connected to other nodes in the network. The presence of hubs will give the degree distribution a long tail, indicating the presence of nodes with a much higher degree than most other nodes.
+A common feature of real-world networks is the presence of hubs or a few highly connected nodes. The presence of hubs will give the degree distribution a long tail, indicating the presence of nodes with a much higher degree than most other nodes.
 
 Scale-free networks are a type of network characterized by the presence of large hubs. A scale-free network is one with a power-law degree distribution. For an undirected network, we can just write the degree distribution as
 Pdeg(k)∝k−γ,
